@@ -1,0 +1,12 @@
+2019-11-29 10:43:13 INFO  MainClass             test info
+2019-11-29 10:43:13 DEBUG MainClass             test debug
+2019-11-29 10:43:13 ERROR MainClass             test error
+2019-11-29 11:17:46 INFO  MainClass             test info
+2019-11-29 11:17:46 DEBUG MainClass             test debug
+2019-11-29 11:17:46 ERROR MainClass             test error
+2019-11-29 11:18:01 INFO  MainClass             test info
+2019-11-29 11:18:01 DEBUG MainClass             test debug
+2019-11-29 11:18:01 ERROR MainClass             test error
+2019-11-29 11:23:39 INFO  MainClass.class       test info
+2019-11-29 11:23:39 DEBUG MainClass.class       test debug
+2019-11-29 11:23:39 ERROR MainClass.class       test error
